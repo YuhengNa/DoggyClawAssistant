@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+*.log
+*.pt
+*.pth
+*.onnx
+*.engine
+.DS_Store
