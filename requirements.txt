@@ -1,0 +1,5 @@
+pyrealsense2>=2.50
+numpy>=1.21
+torch>=2.0
+transformers>=4.40
+Pillow>=9.0
